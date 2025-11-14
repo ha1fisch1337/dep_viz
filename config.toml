@@ -1,0 +1,6 @@
+name = "requests"
+url = "https://github.com/psf/requests.git"
+mode = "clone"
+version = "2.31.0"
+output_mode = true
+substring_filter = "test"
